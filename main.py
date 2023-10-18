@@ -8,7 +8,7 @@ phone_number = "+8801738230593"
 
 # Create a Pyrogram client
 app = Client(
-    "my_bot_session",
+    "forhadxn",
     api_id=api_id,
     api_hash=api_hash,
     phone_number=phone_number,
